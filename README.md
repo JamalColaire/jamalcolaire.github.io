@@ -1,2 +1,3 @@
 # JamalColaire.github.io
-Mock_Website
+
+This will be a **mock-up** of my general website.
