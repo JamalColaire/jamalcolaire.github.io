@@ -1,5 +1,8 @@
+*{
+  background-color: wheat;
+}
 .title_1{
-  color: blueviolet;
+  color: green;
 }
 
 .text_1{
@@ -7,6 +10,6 @@
 }
 
 .text_1:hover{
-  color: green;
-  background-color: yellow;
+  color: rgb(122, 2, 220);
+  background-color: rgb(2, 212, 20);
 }
