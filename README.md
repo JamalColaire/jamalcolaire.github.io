@@ -1,3 +1,3 @@
 # JamalColaire.github.io
 
-This will be a **mock-up** of my general website.
+I'll be using Github Pages for various test projects and other web configurations
