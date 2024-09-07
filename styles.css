@@ -1,8 +1,8 @@
 *{
-  background-color: rgb(67, 64, 64);
+  background-color: rgb(84, 83, 83);
 }
 .title_1{
-  color: green;
+  color: rgb(8, 131, 8);
 }
 
 .text_1{
@@ -11,5 +11,9 @@
 
 .text_1:hover{
   color: rgb(122, 2, 220);
-  background-color: rgb(2, 212, 20);
+  background-color: rgb(164, 96, 6);
+}
+
+li{
+  color:rgb(78, 164, 239);
 }
