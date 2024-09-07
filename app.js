@@ -1,5 +1,5 @@
 
 
 function alertButton(){
-  alert("Works!")
+  alert("Click button works")
 }
