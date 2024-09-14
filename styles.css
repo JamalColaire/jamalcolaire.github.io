@@ -1,5 +1,6 @@
 *{
-  background-color: rgb(211, 212, 210);
+  /* background-color: rgb(211, 212, 210); */
+  background-color: rgb(69, 64, 64);
 }
 
 .title_1{
@@ -8,6 +9,10 @@
 
 .p_1{
   color: rgb(7, 4, 202);
+}
+
+.p_2{
+  color: red;
 }
 
 .p_1:hover{
