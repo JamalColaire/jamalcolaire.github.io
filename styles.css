@@ -46,5 +46,6 @@ a{
 }
 
 button{
-  color:rgb(228, 48, 48);
+  color: black;
+  background-color:rgb(228, 48, 48);
 }
