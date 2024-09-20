@@ -12,11 +12,11 @@
 }
 
 .p_2{
-  color: red;
+  color: rgb(20, 20, 235);
 }
 
 .p_2:hover{
-  color: rgb(73, 61, 248);
+  color: rgb(248, 176, 61);
 }
 
 .p_1:hover{
