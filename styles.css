@@ -52,8 +52,9 @@ li{
 a{
   color: white;
   text-decoration: none;
-  display: list-item;
-  justify-items: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .a1:hover{
