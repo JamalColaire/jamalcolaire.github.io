@@ -7,10 +7,19 @@
   color: rgb(24, 157, 24);
   display: flex;
   justify-content: center;
+  align-items: center;
+  padding-top: 1rem;
 }
 
 .p_1{
   color: rgb(226, 233, 19);
+}
+
+.p_1:hover {
+  color: rgb(255, 255, 255);
+  background-color: rgb(0, 0, 0);
+  display: flex;
+  justify-content: center;
 }
 
 .p_2{
@@ -21,10 +30,6 @@
   color: rgb(248, 176, 61);
 }
 
-.p_1:hover{
-  color: rgb(255, 255, 255);
-  background-color: rgb(0, 0, 0);
-}
 
 li{
   color:rgb(0, 0, 0);
@@ -53,6 +58,7 @@ li{
 
 a{
   color: white;
+  text-decoration: none;
 }
 
 button{
