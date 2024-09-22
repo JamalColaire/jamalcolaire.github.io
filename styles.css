@@ -1,7 +1,15 @@
+
+
+
+/* Background */
+
 *{
   /*background-color: rgb(205, 206, 204); /*light mode*/
    background-color: rgb(75, 70, 70); /*dark mode*/
 }
+
+
+/* Title */
 
 .title_1{
   color: rgb(24, 157, 24);
@@ -10,6 +18,62 @@
   align-items: center;
   padding-top: 1rem;
 }
+
+
+/* Nav Bar */
+
+li {
+  color: rgb(0, 0, 0);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+/* 
+.l-1:hover{
+  color: whitesmoke;
+}
+.l-2:hover{
+  color: whitesmoke;
+}
+.l-3:hover{
+  color: whitesmoke;
+}
+.l-4:hover{
+  color: whitesmoke;
+}
+.l-5:hover{
+  color: whitesmoke;
+} */
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+.a1:hover {
+  color: rgb(8, 8, 209);
+}
+
+.a2:hover {
+  color: rgb(205, 10, 10);
+}
+
+.a3:hover {
+  color: rgb(10, 189, 10);
+}
+
+.a4:hover {
+  color: rgb(207, 240, 21);
+}
+
+.a5:hover {
+  color: rgb(213, 139, 13);
+}
+
+
+/* Text */
 
 .p_1{
   color: rgb(226, 233, 19);
@@ -29,49 +93,7 @@
 }
 
 
-li{
-  color:rgb(0, 0, 0);
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-/* 
-.l-1:hover{
-  color: whitesmoke;
-}
-.l-2:hover{
-  color: whitesmoke;
-}
-.l-3:hover{
-  color: whitesmoke;
-}
-.l-4:hover{
-  color: whitesmoke;
-}
-.l-5:hover{
-  color: whitesmoke;
-} */
-
-a{
-  color: white;
-  text-decoration: none;
-}
-
-.a1:hover{
-  color: rgb(8, 8, 209);
-}
-.a2:hover{
-  color: rgb(205, 10, 10);
-}
-.a3:hover{
-  color: rgb(10, 189, 10);
-}
-.a4:hover{
-  color: rgb(207, 240, 21);
-}
-.a5:hover{
-  color: rgb(213, 139, 13);
-}
+/* Button */
 
 button{
   color: black;
