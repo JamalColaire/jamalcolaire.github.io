@@ -80,12 +80,13 @@ a {
 
 .p_1{
   color: rgb(226, 233, 19);
-  font-size: 2rem;
+  /* font-size: 2rem; */
 }
 
 .p_1:hover {
   color: rgb(255, 255, 255);
   background-color: rgb(0, 0, 0);
+  font-size: 2rem;
 }
 
 .p_2{
