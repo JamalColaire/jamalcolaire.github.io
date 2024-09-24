@@ -80,7 +80,7 @@ a {
 
 .p_1{
   color: rgb(226, 233, 19);
-  /* font-size: 2rem; */
+  padding-top: 2rem;
 }
 
 .p_1:hover {
