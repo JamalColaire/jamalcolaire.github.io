@@ -29,6 +29,9 @@
 input{
   color: white;
   width: 100%;
+}
+
+.search_box{
   padding-left: 3rem;
   padding-right: 3rem;
 }
