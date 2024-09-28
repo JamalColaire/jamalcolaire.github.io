@@ -114,6 +114,13 @@ a {
   color: rgb(248, 176, 61);
 }
 
+.p_3{
+  color: rgb(6, 173, 6);
+}
+
+.p_3:hover{
+  color:rgb(206, 9, 9);
+}
 
 /* Button */
 
