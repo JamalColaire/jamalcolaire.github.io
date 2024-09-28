@@ -103,7 +103,6 @@ a {
 .p_1:hover {
   color: rgb(255, 255, 255);
   background-color: rgb(0, 0, 0);
-  font-size: 2rem;
 }
 
 .p_2{
@@ -113,7 +112,6 @@ a {
 
 .p_2:hover{
   color: rgb(248, 176, 61);
-  font-size: 3rem;
 }
 
 
