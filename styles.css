@@ -1,10 +1,6 @@
-
-
-
 /* Background */
 
 *{
-  /*background-color: rgb(205, 206, 204); /*light mode*/
    background-color: rgb(17, 17, 17); /*dark mode*/
 }
 
@@ -57,23 +53,6 @@ li {
   font-weight: 600;
   list-style: none;
 }
-
-
-/* .l-1:hover{
-  color: whitesmoke;
-}
-.l-2:hover{
-  color: whitesmoke;
-}
-.l-3:hover{
-  color: whitesmoke;
-}
-.l-4:hover{
-  color: whitesmoke;
-}
-.l-5:hover{
-  color: whitesmoke;
-}  */
 
 a {
   color: white;
@@ -145,6 +124,7 @@ p{
 .p_4:hover{
   color:rgba(29, 111, 187, 0.916);
 }
+
 
 /* Button */
 
