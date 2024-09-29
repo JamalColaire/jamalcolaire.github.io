@@ -11,7 +11,7 @@
   color: rgb(24, 157, 24);
   display: flex;
   justify-content: center;
-  align-items: center;
+  padding-top: 10px;
 }
 
 .title_1:hover{
@@ -32,6 +32,7 @@ input{
   padding-top: 2rem;
   padding-left: 6rem;
   padding-right: 6rem;
+  padding-bottom: 15px;
 }
 
 .stick{
@@ -57,7 +58,7 @@ li {
 a {
   color: white;
   text-decoration: none;
-  padding: 3rem;
+  padding-inline: 3rem;
 }
 
 .a1:hover {
