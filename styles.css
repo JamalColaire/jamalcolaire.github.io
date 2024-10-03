@@ -2,7 +2,9 @@
 
 *{
    background-color: rgb(17, 17, 17); /*dark mode*/
+
 }
+
 
 
 /* Title */
@@ -34,8 +36,8 @@ input{
 
 .search_box{
   padding-top: 2rem;
-  padding-left: 6rem;
-  padding-right: 6rem;
+  padding-left: 9rem;
+  padding-right: 9rem;
   padding-bottom: 15px;
 }
 
@@ -91,6 +93,12 @@ a {
 p{
   font-size: 15px;
   line-height: 20px;
+  
+}
+
+.text{
+  padding-left: 4rem;
+  padding-right: 4rem;
 }
 
 .p_1{
