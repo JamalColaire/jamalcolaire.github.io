@@ -35,8 +35,8 @@ input{
 
 .search_box{
   padding-top: 2rem;
-  padding-left: 12rem;
-  padding-right: 12rem;
+  padding-left: 15rem;
+  padding-right: 15rem;
   padding-bottom: 15px;
 }
 
@@ -60,10 +60,26 @@ li {
   list-style: none;
 }
 
+.l-1{
+  padding-inline: 3rem;
+}
+.l-2{
+  padding-inline: 3rem;
+}
+.l-3{
+  padding-inline: 3rem;
+}
+.l-4{
+  padding-inline: 3rem;
+}
+.l-5{
+  padding-inline: 3rem;
+}
+
 a {
   color: white;
   text-decoration: none;
-  padding-inline: 3rem;
+  
 }
 
 .a1:hover {
@@ -101,7 +117,7 @@ p{
 }
 
 .p_1{
-  color: rgb(223, 91, 10);
+  color: rgb(255, 34, 34);
   padding: 2rem;
 }
 
@@ -151,6 +167,6 @@ button:hover{
 
 .b_1{
   padding: 2rem;
-  padding-left: 6rem;
+  padding-left: 10rem;
   padding-right: 4rem;
 }
