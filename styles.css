@@ -2,7 +2,6 @@
 
 *{
    background-color: rgb(17, 17, 17); /*dark mode*/
-
 }
 
 
@@ -36,8 +35,8 @@ input{
 
 .search_box{
   padding-top: 2rem;
-  padding-left: 9rem;
-  padding-right: 9rem;
+  padding-left: 12rem;
+  padding-right: 12rem;
   padding-bottom: 15px;
 }
 
@@ -91,18 +90,18 @@ a {
 /* Text */
 
 p{
-  font-size: 15px;
-  line-height: 20px;
-  
+  font-size: 18px;
+  line-height: 27px;
+  font-weight: 500;
 }
 
 .text{
-  padding-left: 4rem;
-  padding-right: 4rem;
+  padding-left: 8rem;
+  padding-right: 8rem;
 }
 
 .p_1{
-  color: rgb(226, 233, 19);
+  color: rgb(223, 91, 10);
   padding: 2rem;
 }
 
@@ -112,7 +111,7 @@ p{
 }
 
 .p_2{
-  color: rgb(20, 20, 235);
+  color: rgb(255, 255, 255);
   padding: 2rem;
 }
 
@@ -121,7 +120,7 @@ p{
 }
 
 .p_3{
-  color: rgb(6, 173, 6);
+  color: rgb(255, 255, 255);
   padding: 2rem;
 }
 
@@ -130,7 +129,7 @@ p{
 }
 
 .p_4{
-  color: rgb(232, 232, 20);
+  color: rgb(255, 255, 255);
   padding: 2rem;
 }
 
@@ -152,4 +151,6 @@ button:hover{
 
 .b_1{
   padding: 2rem;
+  padding-left: 6rem;
+  padding-right: 4rem;
 }
