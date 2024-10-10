@@ -18,7 +18,7 @@ h1:hover {
 .title_1{
   display: flex;
   justify-content: center;
-  padding-top: 10px;
+  padding-top: 15px;
 }
 
 
@@ -32,10 +32,10 @@ input{
 }
 
 .search_box{
-  padding-top: 2rem;
+  padding-top: 20px;
   padding-left: 20rem;
   padding-right: 20rem;
-  padding-bottom: 15px;
+  padding-bottom: 10px;
 }
 
 .stick{
@@ -59,45 +59,50 @@ li {
 }
 
 .l-1{
-  padding-inline: 4rem;
+  padding-inline: 3rem;
 }
 .l-2{
-  padding-inline: 4rem;
+  padding-inline: 3rem;
 }
 .l-3{
-  padding-inline: 4rem;
+  padding-inline: 3rem;
 }
 .l-4{
-  padding-inline: 4rem;
+  padding-inline: 3rem;
 }
 .l-5{
-  padding-inline: 4rem;
+  padding-inline: 3rem;
 }
 
-a {
+a{
   color: white;
   text-decoration: none;
   
 }
 
 .a1:hover {
-  color: rgb(8, 8, 209);
+  color: rgb(11, 11, 229);
+  text-decoration: underline;
 }
 
 .a2:hover {
   color: rgb(205, 10, 10);
+  text-decoration: underline;
 }
 
 .a3:hover {
   color: rgb(10, 189, 10);
+  text-decoration: underline;
 }
 
 .a4:hover {
   color: rgb(207, 240, 21);
+  text-decoration: underline;
 }
 
 .a5:hover {
-  color: rgb(213, 139, 13);
+  color: rgb(236, 157, 21);
+  text-decoration: underline;
 }
 
 
