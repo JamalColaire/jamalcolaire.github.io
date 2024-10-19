@@ -1,11 +1,11 @@
-/* Background */
 
-*{
-   background-color: rgb(15, 15, 15); /*dark mode*/
-}
 
 
 /* Title */
+
+header{
+  background-color: rgba(15, 15, 15, 0.98);
+}
 
 h1{
   color: rgb(19, 106, 19);
@@ -30,7 +30,7 @@ input{
   height: 2.3rem;
   font-size: 16px;
   padding-left: 20px;
-  background-color: transparent;
+  background-color: rgb(20, 20, 20);
   border: 2px solid blue;
   border-radius: 50px 50px 50px 50px;
 }
@@ -115,6 +115,10 @@ a{
 
 
 /* Text */
+
+body{
+  background-color: rgb(15, 15, 15);
+}
 
 p{
   font-size: 20px;
