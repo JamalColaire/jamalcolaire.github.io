@@ -126,6 +126,14 @@ p{
   font-weight: 500;
 }
 
+span{
+  color: white;
+  font-size: 20px;
+  line-height: 29px;
+  font-weight: 500;
+  padding: 2rem;
+}
+
 .text{
   padding-left: 12rem;
   padding-right: 12rem;
