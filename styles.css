@@ -191,6 +191,7 @@ button{
   color: black;
   height: 25px;
   font-weight: bold;
+  font-family:Arial, Helvetica, sans-serif;
   background-color: rgb(240, 8, 8);
 }
 
