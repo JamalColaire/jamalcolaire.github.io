@@ -177,7 +177,7 @@ span{
 
 .p_4{
   color: rgb(255, 255, 255);
-    padding: 2rem;
+  padding: 2rem;
 }
 
 .p_4:hover{
@@ -189,11 +189,13 @@ span{
 
 button{
   color: black;
-  background-color: rgb(228, 48, 48);
+  height: 25px;
+  font-weight: bold;
+  background-color: rgb(240, 8, 8);
 }
 
 button:hover{
-  background-color: rgb(240, 78, 78);
+  background-color: rgb(240, 72, 72);
 }
 
 .b_1{
