@@ -195,11 +195,19 @@ button{
   background-color: rgb(240, 8, 8);
 }
 
-button:hover{
-  background-color: rgb(240, 72, 72);
-}
-
 .b_1{
   padding-bottom: 5rem;
   padding-left: 14rem;
+}
+
+.b-1:hover{
+  background-color: rgb(240, 72, 72);
+}
+
+.b-2{
+  background-color: rgb(14, 14, 203);
+}
+
+.b-2:hover{
+  background-color: rgb(47, 47, 238);
 }
