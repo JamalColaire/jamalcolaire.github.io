@@ -198,6 +198,8 @@ button{
 .b_1{
   padding-bottom: 5rem;
   padding-left: 14rem;
+  justify-content: flex;
+  display: inline-block;
 }
 
 .b-1:hover{
