@@ -192,18 +192,29 @@ button{
   height: 25px;
   font-weight: bold;
   font-family:Arial, Helvetica, sans-serif;
-  background-color: rgb(240, 8, 8);
 }
 
-.b_1{
-  padding-bottom: 5rem;
-  padding-left: 14rem;
+.b_c{
   justify-content: flex;
-  display: inline-block;
+  display: inline;
+  width: 100%;
+}
+
+.b_1c{
+  padding-left: 14rem;
+}
+
+.b-1{
+  background-color: rgb(240, 8, 8);
 }
 
 .b-1:hover{
   background-color: rgb(240, 72, 72);
+}
+
+.b_2c{
+  display: flex;
+  justify-content:flex-end;
 }
 
 .b-2{
