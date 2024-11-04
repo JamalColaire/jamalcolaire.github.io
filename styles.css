@@ -194,10 +194,17 @@ button{
   font-family:Arial, Helvetica, sans-serif;
 }
 
-.b_c{
-  justify-content: flex;
-  display: inline;
+#b-hold{
+  padding-left: 14rem;
+  padding-right: 14rem;
+  
+}
+
+.bc{
+
+    
   width: 100%;
+  background-color: blanchedalmond;
 }
 
 .b_1c{
@@ -213,8 +220,7 @@ button{
 }
 
 .b_2c{
-  display: flex;
-  justify-content:flex-end;
+  padding-left: 1rem;
 }
 
 .b-2{
