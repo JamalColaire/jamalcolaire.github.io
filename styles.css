@@ -203,8 +203,7 @@ button{
 .bc{
 
     
-  width: 100%;
-  background-color: blanchedalmond;
+  background-color: antiquewhite;
 }
 
 .b_1c{
@@ -220,7 +219,8 @@ button{
 }
 
 .b_2c{
-  padding-left: 12rem;
+  display: flex;
+  justify-content: end;
 }
 
 .b-2{
