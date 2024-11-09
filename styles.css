@@ -201,8 +201,7 @@ button{
 }
 
 .bc{
-
-    
+  display:flex;
   background-color: antiquewhite;
 }
 
