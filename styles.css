@@ -62,13 +62,21 @@ nav{
 }
 
 li {
-  display: inline-block;
+  display: inline;
   color: rgb(0, 0, 0);
   font-weight: 600;
   list-style: none;
 }
 
-.l-1{
+ul {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 20rem;
+  padding-right: 20rem;
+  width: 100%;
+}
+
+/* .l-1{
   padding-inline: 3rem;
 }
 .l-2{
@@ -82,7 +90,7 @@ li {
 }
 .l-5{
   padding-inline: 3rem;
-}
+} */
 
 a{
   font-size: 18px;
