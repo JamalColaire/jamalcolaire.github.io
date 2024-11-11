@@ -14,12 +14,12 @@ h1{
 
 h1:hover {
   color: rgb(58, 204, 58);
+  border-inline: 2px solid rgb(202, 201, 201);
 }
 
 .title_1{
   display: flex;
   justify-content: center;
-  padding-top: 15px;
 }
 
 
@@ -50,7 +50,7 @@ input:hover{
 
 .stick{
   position: sticky;
-  top: 0;
+  top: 0%;
 }
 
 
