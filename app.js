@@ -4,6 +4,6 @@ function alertButton(){
 
 function timedAlert(){
   setTimeout(() =>{
-    alert("Timer Works")
+    alert("Timer Works.\n(2 seconds)")
   }, 2000)
 }
