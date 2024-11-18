@@ -152,12 +152,11 @@ span{
 
 .p_1{
   color: rgb(255, 34, 34);
-  padding: 2rem;
+  padding-left: 2rem;
 }
 
 .p_1c{
-  width: 25%;
-  margin-left: 2rem;
+  width: 100%;
 }
 
 .p_1c:hover{
